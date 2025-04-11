@@ -26,7 +26,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bubble-pop.git
+git clone https://github.com/petrbrzek/bubble-pop.git
 
 # Navigate to the project directory
 cd bubble-pop
@@ -79,4 +79,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   <p>Created with ❤️ for relaxation and fun</p>
   <p>Enjoy popping bubbles!</p>
   <p><em>Built with <a href="https://macaly.com">Macaly</a> - The AI-powered web app builder</em></p>
+  <p><a href="https://github.com/petrbrzek/bubble-pop" target="_blank" rel="noopener noreferrer">View on GitHub</a></p>
 </div>
