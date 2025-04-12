@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://assets.macaly-user-data.dev/jfl9hdqnp4bk63xoek9djime/i4yypy7pqhv9yh1yij3tcct1/1c_44reM4AwJOHPz4sauN/tmpxo6xf8m1.webp" alt="Bubble Pop Game" width="600"/>
   <p><em>A relaxing and satisfying bubble popping experience</em></p>
+  <p><a href="https://github.com/petrbrzek/bubble-pop" target="_blank">View on GitHub</a></p>
 </div>
 
 ## ✨ Features
@@ -26,7 +27,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bubble-pop.git
+git clone https://github.com/petrbrzek/bubble-pop.git
 
 # Navigate to the project directory
 cd bubble-pop
